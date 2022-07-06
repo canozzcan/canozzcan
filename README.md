@@ -47,8 +47,9 @@
 - [Complete-Online-Shop ](https://github.com/canozzcan/Complete-Online-Shop)
 - [Finance Tracker](https://financetracker-a92b7.web.app/login)
 - [SmartEdu](https://github.com/canozzcan/SmartEdu)
+- [React Recipe App](https://react-recipe-site.herokuapp.com/)
 - [PCAT](https://github.com/canozzcan/PCAT)
 - [Sample Portfolio Website](https://portfolio-website-css.netlify.app/)
 - [Tic Tac Toe Game](https://tictactoe-javascript-game.netlify.app/)
 - [React MemoryCard Game](https://react-memorycard-game.netlify.app/)
-- [React Recipe App](https://github.com/canozzcan/react-recipe-app)
+
