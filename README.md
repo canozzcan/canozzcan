@@ -52,4 +52,5 @@
 - [Sample Portfolio Website](https://portfolio-website-css.netlify.app/)
 - [Tic Tac Toe Game](https://tictactoe-javascript-game.netlify.app/)
 - [React MemoryCard Game](https://react-memorycard-game.netlify.app/)
+- [React Fitness Club App (SPA)](https://react-fitclub-spa.netlify.app/)
 
