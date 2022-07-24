@@ -45,6 +45,7 @@
 ### 📌 Some Projects
 
 - [Complete-Online-Shop ](https://github.com/canozzcan/Complete-Online-Shop)
+- [React Admin Panel](https://react-admin-panel-ui.netlify.app/)
 - [Finance Tracker](https://financetracker-a92b7.web.app/login)
 - [SmartEdu](https://github.com/canozzcan/SmartEdu)
 - [React Recipe App](https://react-recipe-site.herokuapp.com/)
